@@ -15,7 +15,7 @@ This is a project proposed by the DevQuest Course, which consists of a JavaScrip
 - HTML 
 - CSS 
 - JS
-- API
+- Github API
 
 
  # Social media
