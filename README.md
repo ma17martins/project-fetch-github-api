@@ -15,11 +15,11 @@ This is a project proposed by the DevQuest Course, which consists of a JavaScrip
 - HTML 
 - CSS 
 - JS
-- API
+- Github API
 
 
  # Social media
 
  - 👋🏾 [Linkedin](https://www.linkedin.com/in/matheus17martins/)
- - 💻 [Github](https://github.com/ma17martins)
+ - 💻 [Project page](https://ma17martins.github.io/project-fetch-github-api/) 
 
