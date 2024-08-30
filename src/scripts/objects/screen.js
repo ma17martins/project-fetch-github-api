@@ -69,7 +69,7 @@ const screen = {
         });
 
         this.userProfile.innerHTML += `<div class="events">
-                                             <h2 class="tittle-events">Eventos</h2>
+                                             <h2 class="tittle-events">Events</h2>
                                              <ul>${displayEvents}</ul>
                                         </div>`;
 
